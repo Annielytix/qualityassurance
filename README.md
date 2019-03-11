@@ -21,17 +21,17 @@ here is 1 of the ML experiments: https://gallery.cortanaintelligence.com/Experim
 
 OEMs which use contract manufacturers (such as Microsoft and Jabil) can minimize post sale service and warranty costs using **ML** to build models that use shop floor data to predict, before shipping, returns and repairs that may happen months or years after device is shipped. This enables predicting **future failures** while the device is still in the **early manufacturing line stages** or is already assembled but is **not yet shipped**, so that fixing or even discarding it may be cheaper than going through recall and warranty costs.
 
-This solution uses [SECOM](https://archive.ics.uci.edu/ml/datasets/SECOM) dataset from ([UCI ML Data repository](http://archive.ics.uci.edu/ml/datasets.html)) to generalize the example scenario described above where the main goal is to predict failures on an assembly line with 5 steps. As devices travel through the assembly line, certain measurements are collected at each step. These measurements are then used to predict possible failures at the end of the assembly line using a predictive model developed for each step. For technical details, please refer to the [*Solution Description*](./blob/master/Manual%20Deployment%20Guide/SolutionDescription.md) under the [*Manual Deployment Guide*](./).
+This solution uses [SECOM](https://archive.ics.uci.edu/ml/datasets/SECOM) dataset from ([UCI ML Data repository](http://archive.ics.uci.edu/ml/datasets.html)) to generalize the example scenario described above where the main goal is to predict failures on an assembly line with 5 steps. As devices travel through the assembly line, certain measurements are collected at each step. These measurements are then used to predict possible failures at the end of the assembly line using a predictive model developed for each step. For technical details, please refer to the [*Solution Description*](https://github.com/annedroid/qualityassurance/blob/master/Manual%20Deployment%20Guide/SolutionDescription.md) under the [*Manual Deployment Guide*](./).
 
 ## Business Audiences
 
-In this repository you will find a folder labeled [*Solution Overview for Business Audiences*](./blob/master/Solution%20Overview%20for%20Business%20Audiences) which contains a  presentation covering this solution and benefits of using Cortana Intelligence
+In this repository you will find a folder labeled [*Solution Overview for Business Audiences*](https://github.com/annedroid/qualityassurance/blob/master/Solution%20Overview%20for%20Business%20Audiences) which contains a  presentation covering this solution and benefits of using Cortana Intelligence
 
 
 
 ## Technical Audiences
 
-See the [*Manual Deployment Guide*](./tree/master/Manual%20Deployment%20Guide) folder for a full set of instructions on how to put together and deploy a Quality Assurance solution using Cortana Intelligence. For technical problems or questions about deploying this solution, please post in the issues tab of the repository.
+See the [*Manual Deployment Guide*](https://github.com/annedroid/qualityassurance/tree/master/Manual%20Deployment%20Guide) folder for a full set of instructions on how to put together and deploy a Quality Assurance solution using Cortana Intelligence. For technical problems or questions about deploying this solution, please post in the issues tab of the repository.
 
 ## Related Resources
 
